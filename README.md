@@ -40,3 +40,9 @@ pip install time
 pip install spacy
 pip install gensim
 ```
+# Stremlit Images
+
+![image](https://github.com/sanjayravichander/Hate-Detection/assets/86998084/9091d916-e5e7-4b70-9de0-7d444da0096a)
+
+![image](https://github.com/sanjayravichander/Hate-Detection/assets/86998084/4494a047-a496-4f51-9631-45c3609a47e5)
+
