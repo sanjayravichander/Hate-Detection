@@ -22,7 +22,7 @@ Legal and Compliance Monitoring: For organizations and governmental bodies to mo
 Research and Analysis: Academics and researchers use hate speech detection to study patterns, trends, and the impact of hate speech across different digital platforms.
 
 # Requirements
-"""
+''' bash
 pip install python version 3.7.8
 pip install streamlit
 pip install pickle
@@ -37,5 +37,4 @@ pip install nltk
 pip install pandas
 pip install base64
 pip install time
-
-"""
+'''
